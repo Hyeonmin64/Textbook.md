@@ -1,0 +1,1 @@
+[Algebraic Geometry and Statistical Learning Theory (Cambridge Monographs on Applied and Computational Mathematics, Series Number 25)](https://www.amazon.com/Algebraic-Statistical-Monographs-Computational-Mathematics/dp/0521864674)
