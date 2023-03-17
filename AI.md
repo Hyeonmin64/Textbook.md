@@ -7,3 +7,10 @@
 
 - Geometric deep learning text.
 -
+
+[Topics in random matrix theory](https://terrytao.files.wordpress.com/2011/02/matrix-book.pdf)
+
+-
+-
+
+[]
