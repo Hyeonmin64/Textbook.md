@@ -18,3 +18,8 @@
 -
 -
 
+[On Neural Differential Equations
+](https://arxiv.org/abs/2202.02435)
+
+-
+-
